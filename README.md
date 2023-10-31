@@ -1,2 +1,0 @@
-# MNblocker
-official MNblocker website
